@@ -3,6 +3,13 @@ const THEMES = {
     dark: 'dark'
 }
 
+const languages = {
+    EN: 'en',
+    AR: 'ar'
+}
+
 export {
-    THEMES
+    THEMES,
+    languages
+
 }
